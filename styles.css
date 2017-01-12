@@ -1,0 +1,46 @@
+.main {
+    max-width: 300px;
+}
+
+.name {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 4px;
+}
+
+.image {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    padding: 2px;
+    max-width: 292px;
+}
+
+.fact {
+    font-style: italic;
+	border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+.list {
+	border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    list-style-type: none;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.particular {
+    font-weight: bold;
+}
+
+.addinfo {
+	border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
